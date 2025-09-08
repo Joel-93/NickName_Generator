@@ -1,0 +1,1839 @@
+### Input:
+Name: Aaden
+Style: cute
+Nickname:
+
+### Output:
+AadenAngel
+
+### Input:
+Name: Aaliyah
+Style: trendy
+Nickname:
+
+### Output:
+AaliyahAura
+
+### Input:
+Name: Aaron
+Style: gamer
+Nickname:
+
+### Output:
+AARocket
+
+### Input:
+Name: Abigail
+Style: cute
+Nickname:
+
+### Output:
+AbbyBear
+
+### Input:
+Name: Adam
+Style: trendy
+Nickname:
+
+### Output:
+AdamAce
+
+### Input:
+Name: Addison
+Style: cute
+Nickname:
+
+### Output:
+AddiePie
+
+### Input:
+Name: Adrian
+Style: gamer
+Nickname:
+
+### Output:
+AdrianX
+
+### Input:
+Name: Aiden
+Style: trendy
+Nickname:
+
+### Output:
+AidenFlash
+
+### Input:
+Name: Alan
+Style: gamer
+Nickname:
+
+### Output:
+AlanArrow
+
+### Input:
+Name: Albert
+Style: cute
+Nickname:
+
+### Output:
+AlbieBuddy
+
+### Input:
+Name: Alejandro
+Style: trendy
+Nickname:
+
+### Output:
+AlejoStyle
+
+### Input:
+Name: Alex
+Style: gamer
+Nickname:
+
+### Output:
+AlexBlast
+
+### Input:
+Name: Alexander
+Style: trendy
+Nickname:
+
+### Output:
+XanderCool
+
+### Input:
+Name: Alexis
+Style: cute
+Nickname:
+
+### Output:
+LexiLove
+
+### Input:
+Name: Alice
+Style: cute
+Nickname:
+
+### Output:
+AllieCat
+
+### Input:
+Name: Alicia
+Style: trendy
+Nickname:
+
+### Output:
+LiciGlam
+
+### Input:
+Name: Allison
+Style: cute
+Nickname:
+
+### Output:
+AllieBug
+
+### Input:
+Name: Alondra
+Style: trendy
+Nickname:
+
+### Output:
+AllySparkle
+
+### Input:
+Name: Alyssa
+Style: cute
+Nickname:
+
+### Output:
+LyssieLoo
+
+### Input:
+Name: Amanda
+Style: trendy
+Nickname:
+
+### Output:
+MandiChic
+
+### Input:
+Name: Amelia
+Style: cute
+Nickname:
+
+### Output:
+MiaMouse
+
+### Input:
+Name: Amy
+Style: trendy
+Nickname:
+
+### Output:
+AmyBloom
+
+### Input:
+Name: Ana
+Style: cute
+Nickname:
+
+### Output:
+AnniePie
+
+### Input:
+Name: Andrea
+Style: trendy
+Nickname:
+
+### Output:
+AndiStyle
+
+### Input:
+Name: Andrew
+Style: gamer
+Nickname:
+
+### Output:
+DrewDuel
+
+### Input:
+Name: Angel
+Style: cute
+Nickname:
+
+### Output:
+AngieWings
+
+### Input:
+Name: Angela
+Style: trendy
+Nickname:
+
+### Output:
+AngieGlow
+
+### Input:
+Name: Angelina
+Style: cute
+Nickname:
+
+### Output:
+LinaDove
+
+### Input:
+Name: Anna
+Style: trendy
+Nickname:
+
+### Output:
+AnnieShine
+
+### Input:
+Name: Anthony
+Style: gamer
+Nickname:
+
+### Output:
+TonyStrike
+
+### Input:
+Name: Antonio
+Style: trendy
+Nickname:
+
+### Output:
+TonyFresh
+
+### Input:
+Name: Ariana
+Style: cute
+Nickname:
+
+### Output:
+AriStar
+
+### Input:
+Name: Ariel
+Style: trendy
+Nickname:
+
+### Output:
+ArielBeam
+
+### Input:
+Name: Ashley
+Style: cute
+Nickname:
+
+### Output:
+AshBug
+
+### Input:
+Name: Ashton
+Style: gamer
+Nickname:
+
+### Output:
+AshtonAce
+
+### Input:
+Name: Audrey
+Style: trendy
+Nickname:
+
+### Output:
+AudieGrace
+
+### Input:
+Name: Austin
+Style: gamer
+Nickname:
+
+### Output:
+AustAttack
+
+### Input:
+Name: Autumn
+Style: cute
+Nickname:
+
+### Output:
+AuttyLeaf
+
+### Input:
+Name: Ava
+Style: trendy
+Nickname:
+
+### Output:
+AvaDazzle
+
+### Input:
+Name: Avery
+Style: cute
+Nickname:
+
+### Output:
+AveyBear
+
+### Input:
+Name: Ayden
+Style: gamer
+Nickname:
+
+### Output:
+AydenArrow
+
+### Input:
+Name: Bailey
+Style: cute
+Nickname:
+
+### Output:
+BaiBunny
+
+### Input:
+Name: Barbara
+Style: trendy
+Nickname:
+
+### Output:
+BarbieChic
+
+### Input:
+Name: Benjamin
+Style: gamer
+Nickname:
+
+### Output:
+BenjiBoost
+
+### Input:
+Name: Blake
+Style: trendy
+Nickname:
+
+### Output:
+BlakeCool
+
+### Input:
+Name: Brandon
+Style: gamer
+Nickname:
+
+### Output:
+BrandoBlitz
+
+### Input:
+Name: Brayden
+Style: trendy
+Nickname:
+
+### Output:
+BrayBeam
+
+### Input:
+Name: Breanna
+Style: cute
+Nickname:
+
+### Output:
+BreeBee
+
+### Input:
+Name: Brendan
+Style: gamer
+Nickname:
+
+### Output:
+BrenCombo
+
+### Input:
+Name: Brian
+Style: trendy
+Nickname:
+
+### Output:
+BriStyle
+
+### Input:
+Name: Brianna
+Style: cute
+Nickname:
+
+### Output:
+BriButterfly
+
+### Input:
+Name: Brooke
+Style: trendy
+Nickname:
+
+### Output:
+BrookieShine
+
+### Input:
+Name: Bryan
+Style: gamer
+Nickname:
+
+### Output:
+BryanBash
+
+### Input:
+Name: Caleb
+Style: trendy
+Nickname:
+
+### Output:
+CaleSwag
+
+### Input:
+Name: Cameron
+Style: gamer
+Nickname:
+
+### Output:
+CamCrush
+
+### Input:
+Name: Carlos
+Style: trendy
+Nickname:
+
+### Output:
+CarlosCool
+
+### Input:
+Name: Carter
+Style: gamer
+Nickname:
+
+### Output:
+CartCombo
+
+### Input:
+Name: Casey
+Style: cute
+Nickname:
+
+### Output:
+CaseyCloud
+
+### Input:
+Name: Cassandra
+Style: trendy
+Nickname:
+
+### Output:
+CassieCharm
+
+### Input:
+Name: Catherine
+Style: cute
+Nickname:
+
+### Output:
+CatieCake
+
+### Input:
+Name: Charles
+Style: gamer
+Nickname:
+
+### Output:
+CharCharBinks
+
+### Input:
+Name: Charlotte
+Style: cute
+Nickname:
+
+### Output:
+LottieDot
+
+### Input:
+Name: Chloe
+Style: trendy
+Nickname:
+
+### Output:
+ChloeGlow
+
+### Input:
+Name: Christian
+Style: gamer
+Nickname:
+
+### Output:
+ChrisPwn
+
+### Input:
+Name: Christopher
+Style: trendy
+Nickname:
+
+### Output:
+TopherStyle
+
+### Input:
+Name: Claire
+Style: cute
+Nickname:
+
+### Output:
+ClaireBear
+
+### Input:
+Name: Cody
+Style: gamer
+Nickname:
+
+### Output:
+CodeMaster
+
+### Input:
+Name: Cole
+Style: trendy
+Nickname:
+
+### Output:
+ColeSwag
+
+### Input:
+Name: Connor
+Style: gamer
+Nickname:
+
+### Output:
+Conqueror
+
+### Input:
+Name: Cooper
+Style: trendy
+Nickname:
+
+### Output:
+CoopCool
+
+### Input:
+Name: Daniel
+Style: gamer
+Nickname:
+
+### Output:
+DanTheMan
+
+### Input:
+Name: Danielle
+Style: cute
+Nickname:
+
+### Output:
+DaniDove
+
+### Input:
+Name: David
+Style: trendy
+Nickname:
+
+### Output:
+DaveWave
+
+### Input:
+Name: Destiny
+Style: cute
+Nickname:
+
+### Output:
+DesiDaisy
+
+### Input:
+Name: Diego
+Style: gamer
+Nickname:
+
+### Output:
+DiegoDash
+
+### Input:
+Name: Dominic
+Style: trendy
+Nickname:
+
+### Output:
+DomDazzle
+
+### Input:
+Name: Dylan
+Style: gamer
+Nickname:
+
+### Output:
+DylDuel
+
+### Input:
+Name: Edward
+Style: trendy
+Nickname:
+
+### Output:
+EddieFresh
+
+### Input:
+Name: Eleanor
+Style: cute
+Nickname:
+
+### Output:
+EllieBell
+
+### Input:
+Name: Elias
+Style: gamer
+Nickname:
+
+### Output:
+EliElite
+
+### Input:
+Name: Elijah
+Style: trendy
+Nickname:
+
+### Output:
+EliJazz
+
+### Input:
+Name: Elizabeth
+Style: cute
+Nickname:
+
+### Output:
+LizzyLamb
+
+### Input:
+Name: Ella
+Style: trendy
+Nickname:
+
+### Output:
+EllaBella
+
+### Input:
+Name: Emily
+Style: cute
+Nickname:
+
+### Output:
+EmzyBear
+
+### Input:
+Name: Emma
+Style: trendy
+Nickname:
+
+### Output:
+Emmazing
+
+### Input:
+Name: Eric
+Style: gamer
+Nickname:
+
+### Output:
+EZEric
+
+### Input:
+Name: Ethan
+Style: trendy
+Nickname:
+
+### Output:
+EthanEdge
+
+### Input:
+Name: Eva
+Style: cute
+Nickname:
+
+### Output:
+EvaAngel
+
+### Input:
+Name: Evan
+Style: gamer
+Nickname:
+
+### Output:
+EvanAce
+
+### Input:
+Name: Faith
+Style: cute
+Nickname:
+
+### Output:
+FaithyFairy
+
+### Input:
+Name: Gabriel
+Style: trendy
+Nickname:
+
+### Output:
+GabeVibe
+
+### Input:
+Name: Gavin
+Style: gamer
+Nickname:
+
+### Output:
+GavGame
+
+### Input:
+Name: Genesis
+Style: cute
+Nickname:
+
+### Output:
+GeniGem
+
+### Input:
+Name: Gianna
+Style: trendy
+Nickname:
+
+### Output:
+GiaGlow
+
+### Input:
+Name: Grace
+Style: cute
+Nickname:
+
+### Output:
+GracieGrace
+
+### Input:
+Name: Hailey
+Style: trendy
+Nickname:
+
+### Output:
+HailShine
+
+### Input:
+Name: Hannah
+Style: cute
+Nickname:
+
+### Output:
+HannaBanana
+
+### Input:
+Name: Hayden
+Style: gamer
+Nickname:
+
+### Output:
+HayHayWin
+
+### Input:
+Name: Henry
+Style: trendy
+Nickname:
+
+### Output:
+HankCool
+
+### Input:
+Name: Hunter
+Style: gamer
+Nickname:
+
+### Output:
+HuntShot
+
+### Input:
+Name: Ian
+Style: trendy
+Nickname:
+
+### Output:
+IanIce
+
+### Input:
+Name: Isaac
+Style: gamer
+Nickname:
+
+### Output:
+IkeStrike
+
+### Input:
+Name: Isabella
+Style: cute
+Nickname:
+
+### Output:
+BelleBunny
+
+### Input:
+Name: Isaiah
+Style: trendy
+Nickname:
+
+### Output:
+IzzyFresh
+
+### Input:
+Name: Jack
+Style: gamer
+Nickname:
+
+### Output:
+JackAttack
+
+### Input:
+Name: Jackson
+Style: trendy
+Nickname:
+
+### Output:
+JaxStyle
+
+### Input:
+Name: Jacob
+Style: gamer
+Nickname:
+
+### Output:
+JakeJolt
+
+### Input:
+Name: James
+Style: trendy
+Nickname:
+
+### Output:
+JimiJam
+
+### Input:
+Name: Jason
+Style: gamer
+Nickname:
+
+### Output:
+JayGame
+
+### Input:
+Name: Jaxon
+Style: trendy
+Nickname:
+
+### Output:
+JaxFlash
+
+### Input:
+Name: Jayden
+Style: gamer
+Nickname:
+
+### Output:
+JayDash
+
+### Input:
+Name: Jeremiah
+Style: trendy
+Nickname:
+
+### Output:
+JerryJive
+
+### Input:
+Name: Jessica
+Style: cute
+Nickname:
+
+### Output:
+JessiBug
+
+### Input:
+Name: Joel
+Style: gamer
+Nickname:
+
+### Output:
+JoElite
+
+### Input:
+Name: John
+Style: trendy
+Nickname:
+
+### Output:
+JohnnyCool
+
+### Input:
+Name: Jonathan
+Style: gamer
+Nickname:
+
+### Output:
+JonWin
+
+### Input:
+Name: Jordan
+Style: trendy
+Nickname:
+
+### Output:
+JordyJazz
+
+### Input:
+Name: Jose
+Style: gamer
+Nickname:
+
+### Output:
+JoZeus
+
+### Input:
+Name: Joseph
+Style: trendy
+Nickname:
+
+### Output:
+JoeyFresh
+
+### Input:
+Name: Joshua
+Style: gamer
+Nickname:
+
+### Output:
+JoshJoust
+
+### Input:
+Name: Josiah
+Style: trendy
+Nickname:
+
+### Output:
+JoSpark
+
+### Input:
+Name: Juan
+Style: gamer
+Nickname:
+
+### Output:
+JuanJet
+
+### Input:
+Name: Julia
+Style: cute
+Nickname:
+
+### Output:
+JujuBean
+
+### Input:
+Name: Julian
+Style: trendy
+Nickname:
+
+### Output:
+JulesCool
+
+### Input:
+Name: Justin
+Style: gamer
+Nickname:
+
+### Output:
+JustWin
+
+### Input:
+Name: Kaitlyn
+Style: cute
+Nickname:
+
+### Output:
+KatieKitty
+
+### Input:
+Name: Karen
+Style: trendy
+Nickname:
+
+### Output:
+KariChic
+
+### Input:
+Name: Katherine
+Style: cute
+Nickname:
+
+### Output:
+KatieKins
+
+### Input:
+Name: Kayla
+Style: trendy
+Nickname:
+
+### Output:
+KayGlow
+
+### Input:
+Name: Kaylee
+Style: cute
+Nickname:
+
+### Output:
+KayleeKoi
+
+### Input:
+Name: Kevin
+Style: gamer
+Nickname:
+
+### Output:
+KevKombat
+
+### Input:
+Name: Kimberly
+Style: trendy
+Nickname:
+
+### Output:
+KimShine
+
+### Input:
+Name: Kylie
+Style: cute
+Nickname:
+
+### Output:
+KyKyKoala
+
+### Input:
+Name: Landon
+Style: gamer
+Nickname:
+
+### Output:
+LandyLegend
+
+### Input:
+Name: Lauren
+Style: trendy
+Nickname:
+
+### Output:
+LoLoLuxe
+
+### Input:
+Name: Layla
+Style: cute
+Nickname:
+
+### Output:
+LaylaLamb
+
+### Input:
+Name: Leah
+Style: trendy
+Nickname:
+
+### Output:
+LeahLuxe
+
+### Input:
+Name: Leo
+Style: gamer
+Nickname:
+
+### Output:
+LeoBlast
+
+### Input:
+Name: Leonardo
+Style: trendy
+Nickname:
+
+### Output:
+LeoStyle
+
+### Input:
+Name: Levi
+Style: cute
+Nickname:
+
+### Output:
+LeviLove
+
+### Input:
+Name: Liam
+Style: gamer
+Nickname:
+
+### Output:
+LiamLaser
+
+### Input:
+Name: Lillian
+Style: trendy
+Nickname:
+
+### Output:
+LilyGlow
+
+### Input:
+Name: Lily
+Style: cute
+Nickname:
+
+### Output:
+LilyBug
+
+### Input:
+Name: Logan
+Style: gamer
+Nickname:
+
+### Output:
+LogiBear
+
+### Input:
+Name: Lucas
+Style: trendy
+Nickname:
+
+### Output:
+LukeCool
+
+### Input:
+Name: Lucy
+Style: cute
+Nickname:
+
+### Output:
+LucyLamb
+
+### Input:
+Name: Luis
+Style: gamer
+Nickname:
+
+### Output:
+LuisLoot
+
+### Input:
+Name: Lydia
+Style: trendy
+Nickname:
+
+### Output:
+LydiLuxe
+
+### Input:
+Name: Mackenzie
+Style: cute
+Nickname:
+
+### Output:
+KenziKoala
+
+### Input:
+Name: Madeline
+Style: trendy
+Nickname:
+
+### Output:
+MaddieShine
+
+### Input:
+Name: Madison
+Style: cute
+Nickname:
+
+### Output:
+MaddieMuffin
+
+### Input:
+Name: Makayla
+Style: trendy
+Nickname:
+
+### Output:
+KaylaKool
+
+### Input:
+Name: Marcus
+Style: gamer
+Nickname:
+
+### Output:
+MarcMaster
+
+### Input:
+Name: Maria
+Style: cute
+Nickname:
+
+### Output:
+MariMarshmallow
+
+### Input:
+Name: Mariah
+Style: trendy
+Nickname:
+
+### Output:
+MariahMagic
+
+### Input:
+Name: Mark
+Style: gamer
+Nickname:
+
+### Output:
+MarkyMark
+
+### Input:
+Name: Mason
+Style: trendy
+Nickname:
+
+### Output:
+MaseCool
+
+### Input:
+Name: Matthew
+Style: gamer
+Nickname:
+
+### Output:
+MattAttack
+
+### Input:
+Name: Maya
+Style: cute
+Nickname:
+
+### Output:
+MayaMoon
+
+### Input:
+Name: Megan
+Style: trendy
+Nickname:
+
+### Output:
+MegShine
+
+### Input:
+Name: Mia
+Style: cute
+Nickname:
+
+### Output:
+MiaMouse
+
+### Input:
+Name: Michael
+Style: gamer
+Nickname:
+
+### Output:
+MikeBlade
+
+### Input:
+Name: Michelle
+Style: trendy
+Nickname:
+
+### Output:
+ShellySparkle
+
+### Input:
+Name: Miguel
+Style: gamer
+Nickname:
+
+### Output:
+MigzKills
+
+### Input:
+Name: Molly
+Style: cute
+Nickname:
+
+### Output:
+MollsDolls
+
+### Input:
+Name: Morgan
+Style: trendy
+Nickname:
+
+### Output:
+MorgzyMo
+
+### Input:
+Name: Muhammad
+Style: gamer
+Nickname:
+
+### Output:
+MuhammadMight
+
+### Input:
+Name: Naomi
+Style: cute
+Nickname:
+
+### Output:
+NomiNest
+
+### Input:
+Name: Natalia
+Style: trendy
+Nickname:
+
+### Output:
+NatGlow
+
+### Input:
+Name: Nathan
+Style: gamer
+Nickname:
+
+### Output:
+NateFrags
+
+### Input:
+Name: Nicholas
+Style: trendy
+Nickname:
+
+### Output:
+NickCool
+
+### Input:
+Name: Nicole
+Style: cute
+Nickname:
+
+### Output:
+NikiNut
+
+### Input:
+Name: Noah
+Style: gamer
+Nickname:
+
+### Output:
+NoahNuke
+
+### Input:
+Name: Nolan
+Style: trendy
+Nickname:
+
+### Output:
+NolanNova
+
+### Input:
+Name: Oliver
+Style: cute
+Nickname:
+
+### Output:
+OllieBear
+
+### Input:
+Name: Olivia
+Style: trendy
+Nickname:
+
+### Output:
+LivLuxe
+
+### Input:
+Name: Omar
+Style: gamer
+Nickname:
+
+### Output:
+OmarOmega
+
+### Input:
+Name: Owen
+Style: cute
+Nickname:
+
+### Output:
+Owlet
+
+### Input:
+Name: Paige
+Style: trendy
+Nickname:
+
+### Output:
+PaigeyPosh
+
+### Input:
+Name: Parker
+Style: gamer
+Nickname:
+
+### Output:
+ParkOwn
+
+### Input:
+Name: Patrick
+Style: trendy
+Nickname:
+
+### Output:
+PatCool
+
+### Input:
+Name: Paul
+Style: gamer
+Nickname:
+
+### Output:
+PaulPower
+
+### Input:
+Name: Payton
+Style: cute
+Nickname:
+
+### Output:
+PaytiePie
+
+### Input:
+Name: Peter
+Style: trendy
+Nickname:
+
+### Output:
+PetePerfect
+
+### Input:
+Name: Peyton
+Style: gamer
+Nickname:
+
+### Output:
+PeytPlay
+
+### Input:
+Name: Philip
+Style: cute
+Nickname:
+
+### Output:
+PhilPhlox
+
+### Input:
+Name: Phoenix
+Style: trendy
+Nickname:
+
+### Output:
+PhoenixFlame
+
+### Input:
+Name: Rachel
+Style: cute
+Nickname:
+
+### Output:
+RayOfSun
+
+### Input:
+Name: Reagan
+Style: trendy
+Nickname:
+
+### Output:
+ReaGlam
+
+### Input:
+Name: Rebecca
+Style: gamer
+Nickname:
+
+### Output:
+BeccaBash
+
+### Input:
+Name: Riley
+Style: cute
+Nickname:
+
+### Output:
+RilesSmiles
+
+### Input:
+Name: Robert
+Style: trendy
+Nickname:
+
+### Output:
+RoboFresh
+
+### Input:
+Name: Ruby
+Style: gamer
+Nickname:
+
+### Output:
+RubyRush
+
+### Input:
+Name: Ryan
+Style: cute
+Nickname:
+
+### Output:
+RyRyBear
+
+### Input:
+Name: Sabrina
+Style: trendy
+Nickname:
+
+### Output:
+BriBling
+
+### Input:
+Name: Samantha
+Style: gamer
+Nickname:
+
+### Output:
+SamSlam
+
+### Input:
+Name: Samuel
+Style: cute
+Nickname:
+
+### Output:
+SammySun
+
+### Input:
+Name: Sara
+Style: trendy
+Nickname:
+
+### Output:
+SariSparkle
+
+### Input:
+Name: Sarah
+Style: gamer
+Nickname:
+
+### Output:
+SariSpark
+
+### Input:
+Name: Savannah
+Style: cute
+Nickname:
+
+### Output:
+SavvySweet
+
+### Input:
+Name: Scarlett
+Style: trendy
+Nickname:
+
+### Output:
+ScarletStar
+
+### Input:
+Name: Sean
+Style: gamer
+Nickname:
+
+### Output:
+SeanSnipe
+
+### Input:
+Name: Sebastian
+Style: cute
+Nickname:
+
+### Output:
+SebbyBear
+
+### Input:
+Name: Serenity
+Style: trendy
+Nickname:
+
+### Output:
+SereneStyle
+
+### Input:
+Name: Seth
+Style: gamer
+Nickname:
+
+### Output:
+SethSlay
+
+### Input:
+Name: Sofia
+Style: cute
+Nickname:
+
+### Output:
+SofiePie
+
+### Input:
+Name: Sophia
+Style: trendy
+Nickname:
+
+### Output:
+SophShine
+
+### Input:
+Name: Stephanie
+Style: gamer
+Nickname:
+
+### Output:
+StephStrike
+
+### Input:
+Name: Steven
+Style: cute
+Nickname:
+
+### Output:
+StevieSweet
+
+### Input:
+Name: Summer
+Style: trendy
+Nickname:
+
+### Output:
+SumSunny
+
+### Input:
+Name: Sydney
+Style: gamer
+Nickname:
+
+### Output:
+SydSniper
+
+### Input:
+Name: Taylor
+Style: cute
+Nickname:
+
+### Output:
+TayTayBear
+
+### Input:
+Name: Thomas
+Style: trendy
+Nickname:
+
+### Output:
+TommyCool
+
+### Input:
+Name: Timothy
+Style: gamer
+Nickname:
+
+### Output:
+TimTime
+
+### Input:
+Name: Trinity
+Style: cute
+Nickname:
+
+### Output:
+TriniTiger
+
+### Input:
+Name: Tyler
+Style: trendy
+Nickname:
+
+### Output:
+TyFresh
+
+### Input:
+Name: Valerie
+Style: gamer
+Nickname:
+
+### Output:
+ValVortex
+
+### Input:
+Name: Vanessa
+Style: cute
+Nickname:
+
+### Output:
+NessieNest
+
+### Input:
+Name: Victor
+Style: trendy
+Nickname:
+
+### Output:
+VicVibe
+
+### Input:
+Name: Victoria
+Style: gamer
+Nickname:
+
+### Output:
+VickyVictory
+
+### Input:
+Name: Vincent
+Style: cute
+Nickname:
+
+### Output:
+VinnieBear
+
+### Input:
+Name: Violet
+Style: trendy
+Nickname:
+
+### Output:
+ViViolet
+
+### Input:
+Name: Wesley
+Style: gamer
+Nickname:
+
+### Output:
+WesWin
+
+### Input:
+Name: William
+Style: cute
+Nickname:
+
+### Output:
+WillowBear
+
+### Input:
+Name: Wyatt
+Style: trendy
+Nickname:
+
+### Output:
+WyattWave
+
+### Input:
+Name: Xavier
+Style: gamer
+Nickname:
+
+### Output:
+XaviX
+
+### Input:
+Name: Yaretzi
+Style: cute
+Nickname:
+
+### Output:
+YariYum
+
+### Input:
+Name: Zachary
+Style: trendy
+Nickname:
+
+### Output:
+ZachZoom
+
+### Input:
+Name: Zoe
+Style: gamer
+Nickname:
+
+### Output:
+ZoeZap
+
+### Input:
+Name: Zoey
+Style: cute
+Nickname:
+
+### Output:
+ZoeyZest
