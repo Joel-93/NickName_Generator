@@ -2,3 +2,5 @@ flask
 flask-cors
 torch>=2.0.0
 transformers>=4.41.0
+google-generativeai==0.7.2
+gunicorn==23.0.0
