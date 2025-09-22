@@ -1,76 +1,107 @@
 from flask import Flask, request, jsonify, render_template
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
-import os
+import random
+import google.generativeai as genai  # Gemini API
 
 app = Flask(__name__, template_folder="templates")
 
-# Load fine-tuned model
-model_path = "./nickname-model-gptneo"
-tokenizer = AutoTokenizer.from_pretrained(model_path)
-model = AutoModelForCausalLM.from_pretrained(model_path)
 
-# Helper function to clean nickname output
-def clean_nickname(text):
-    if "### Output:" in text:
-        nickname = text.split("### Output:")[-1]
-    else:
-        nickname = text
-
-    # Remove everything after a space or newline (nicknames should be 1–2 words)
-    nickname = nickname.strip().split("\n")[0]
-    nickname = nickname.split(" ")[0]  # keep only first token if it rambles
-
-    # Remove weird characters
-    nickname = "".join([c for c in nickname if c.isalnum()])
-
-    return nickname
+genai.configure(api_key="AIzaSyAv_wNeH0T4U7kF56vVye_OllVmmUHvPL4")
+gemini_model = genai.GenerativeModel("gemini-1.5-flash")
 
 
-# Route to serve your frontend
+nickname_dataset = {}
+dataset_path = "./train_gpt_lstm.txt"
+
+try:
+    with open(dataset_path, "r", encoding="utf-8") as f:
+        content = f.read().split("### Input:")
+        for block in content:
+            if block.strip() == "":
+                continue
+            # Extract name, style, and output
+            name_line = next((line for line in block.splitlines() if line.startswith("Name:")), None)
+            style_line = next((line for line in block.splitlines() if line.startswith("Style:")), None)
+            output_line = next((line for line in block.splitlines() if line.startswith("### Output")), None)
+
+            if name_line and output_line:
+                name = name_line.split(":", 1)[1].strip()
+                style = style_line.split(":", 1)[1].strip() if style_line else "trendy"
+
+                # Handle both formats:
+                lines = block.splitlines()
+                idx = lines.index(output_line)
+                if output_line.strip() == "### Output:":
+                    if idx + 1 < len(lines):
+                        nickname = lines[idx + 1].strip()
+                    else:
+                        nickname = ""
+                else:
+                    nickname = output_line.split(":", 1)[1].strip()
+
+                if nickname:
+                    nickname_dataset[(name.lower(), style.lower())] = nickname
+    print(f"✅ Loaded {len(nickname_dataset)} nickname entries from dataset.")
+except FileNotFoundError:
+    print(f"⚠️ Dataset file not found at {dataset_path}. Make sure it exists.")
+
+
 @app.route("/", methods=["GET"])
 def home():
-    return render_template("index2.html")   # serves index.html
+    return render_template("index2.html")
 
 
-# API route to generate nickname
 @app.route("/generate", methods=["POST"])
 def generate():
-    data = request.get_json()
+    try:
+        data = request.get_json()
+        name = data.get("name", "").strip()
+        style = data.get("style", "trendy").strip()
 
-    name = data.get("name", "")
-    style = data.get("style", "trendy")
-    temperature = float(data.get("temperature", 0.9))
-    top_p = float(data.get("top_p", 0.95))
-    max_new_tokens = int(data.get("max_new_tokens", 12))
+        if not name:
+            return jsonify({"error": "No name provided"}), 400
 
-    if not name:
-        return jsonify({"error": "No name provided"}), 400
+        # Step 1: Exact match (name + style)
+        dataset_nickname = nickname_dataset.get((name.lower(), style.lower()))
+        if dataset_nickname:
+            print(f"🎯 Exact match found: ({name}, {style}) → {dataset_nickname}")
+            return jsonify({"nickname": dataset_nickname})
 
-    prompt = (
-      f"### Input:\n"
-      f"Name: {name}\n"
-      f"Style: {style}\n"
-      f"Generate a short, creative nickname that matches the style. "
-      f"Nickname should be 1–2 words, fun, and catchy.\n\n"
-      f"### Output:\n"
-   )
-    inputs = tokenizer(prompt, return_tensors="pt")
+        # Step 2: Default style ("trendy")
+        dataset_nickname = nickname_dataset.get((name.lower(), "trendy"))
+        if dataset_nickname:
+            print(f"🎯 Default style match: ({name}, trendy) → {dataset_nickname}")
+            return jsonify({"nickname": dataset_nickname})
 
-    outputs = model.generate(
-      **inputs,
-      max_new_tokens=5,     # nicknames should be short
-      temperature=0.6,      # less randomness
-      top_p=0.8,            # tighter sampling
-      do_sample=True,
-      pad_token_id=tokenizer.eos_token_id
-    )
+        # Step 3: Match any style for the name
+        for (n, s), nick in nickname_dataset.items():
+            if n == name.lower():
+                print(f"🎯 Any style match: ({name}, {s}) → {nick}")
+                return jsonify({"nickname": nick})
 
-    raw = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    nickname = clean_nickname(raw)
+        # Step 4: Fallback → Generate nickname using Gemini
+        prompt = f"Generate a creative {style} nickname for the name '{name}'. Only return the nickname, no explanation."
+        gemini_response = gemini_model.generate_content(prompt)
+        nickname = gemini_response.text.strip()
 
-    return jsonify({"nickname": nickname})
+        if not nickname:  # If Gemini fails, use a manual fallback
+            fallback_nicknames = [
+                f"{name}ster",
+                f"Cool {name}",
+                f"{name}y",
+                f"The {style.capitalize()} {name}",
+                f"{name}zilla",
+                f"{name}_X",
+                f"{name}tron",
+            ]
+            nickname = random.choice(fallback_nicknames)
+
+        print(f"⚡ Gemini Fallback used → {nickname}")
+        return jsonify({"nickname": nickname})
+
+    except Exception as e:
+        print("⚠️ ERROR in /generate:", str(e))
+        return jsonify({"error": "Could not generate nickname"}), 500
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
